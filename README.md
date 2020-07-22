@@ -5,3 +5,6 @@
  3. ensure u have a index.html file to host the file
 
 ### done, enjoy your new website with your custom domain name
+
+how to host in go daddy:
+![Screenshot 2020-07-22 at 9 52 47 PM](https://user-images.githubusercontent.com/68649628/88185011-fe64bf00-cc65-11ea-9a28-1a9185f29acc.png)
